@@ -47,7 +47,7 @@
         <air.maven.version>3.3.9</air.maven.version>
 
         <dep.antlr.version>4.6</dep.antlr.version>
-        <dep.airlift.version>0.153</dep.airlift.version>
+        <dep.airlift.version>204</dep.airlift.version>
         <dep.packaging.version>${dep.airlift.version}</dep.packaging.version>
         <dep.slice.version>0.31</dep.slice.version>
         <dep.aws-sdk.version>1.11.165</dep.aws-sdk.version>
@@ -55,7 +55,7 @@
         <dep.tempto.version>1.36</dep.tempto.version>
         <dep.testng.version>6.10</dep.testng.version>
         <dep.nifty.version>0.15.1</dep.nifty.version>
-        <dep.swift.version>0.15.2</dep.swift.version>
+        <dep.swift.version>0.17.0</dep.swift.version>
 
         <!-- use a fractional hour timezone offset for tests -->
         <air.test.timezone>Asia/Katmandu</air.test.timezone>
@@ -1108,7 +1108,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -1121,7 +1121,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -1134,7 +1134,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -1147,7 +1147,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -1160,7 +1160,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -1173,7 +1173,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -1189,7 +1189,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
